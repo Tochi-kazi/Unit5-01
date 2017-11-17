@@ -1,0 +1,93 @@
+[
+  {
+    "nodes" : [
+      {
+        "nodes" : [
+
+        ],
+        "frame" : "{{149, 16}, {216, 32}}",
+        "class" : "Button",
+        "attributes" : {
+          "action" : "generate_random_numbers_touch_up_inside",
+          "frame" : "{{472, 278}, {80, 32}}",
+          "tint_color" : "RGBA(1.000000,1.088889,1.066667,1.000000)",
+          "title" : "Create random numbers",
+          "uuid" : "CB32ECD4-4537-4FCE-B588-DE41F12947C9",
+          "class" : "Button",
+          "background_color" : "RGBA(0.166667,0.166667,1.000000,1.000000)",
+          "name" : "random_bottun",
+          "font_size" : 15
+        },
+        "selected" : false
+      },
+      {
+        "nodes" : [
+
+        ],
+        "frame" : "{{149, 155}, {199, 44}}",
+        "class" : "Button",
+        "attributes" : {
+          "action" : "calculate_average_touch_up_inside",
+          "frame" : "{{200, 144}, {80, 32}}",
+          "tint_color" : "RGBA(1.000000,1.000000,1.000000,1.000000)",
+          "title" : "Average",
+          "uuid" : "F73BE73B-3A50-4AED-BFF9-1C5A20BD67DA",
+          "font_bold" : true,
+          "class" : "Button",
+          "background_color" : "RGBA(0.300000,0.300000,1.000000,1.000000)",
+          "name" : "average_button",
+          "font_size" : 15
+        },
+        "selected" : false
+      },
+      {
+        "nodes" : [
+
+        ],
+        "frame" : "{{88, 218}, {350, 44}}",
+        "class" : "Label",
+        "attributes" : {
+          "name" : "average_label",
+          "frame" : "{{165, 144}, {150, 32}}",
+          "uuid" : "C91BECB1-3E6B-4A67-8E1B-CE9F8C862C81",
+          "class" : "Label",
+          "alignment" : "center",
+          "text" : "",
+          "font_size" : 18,
+          "font_name" : "<System>"
+        },
+        "selected" : false
+      },
+      {
+        "nodes" : [
+
+        ],
+        "frame" : "{{12, 63}, {468, 52}}",
+        "class" : "TextField",
+        "attributes" : {
+          "name" : "random_numbers_textfield",
+          "frame" : "{{140, 144}, {200, 32}}",
+          "spellchecking_type" : "default",
+          "class" : "TextField",
+          "uuid" : "E4162A1D-293E-40D7-9E4E-8EDF7722EC3C",
+          "alignment" : "left",
+          "autocorrection_type" : "default",
+          "font_size" : 17,
+          "font_name" : "<System>"
+        },
+        "selected" : true
+      }
+    ],
+    "frame" : "{{0, 0}, {480, 320}}",
+    "class" : "View",
+    "attributes" : {
+      "background_color" : "RGBA(1.000000,1.000000,1.000000,1.000000)",
+      "enabled" : true,
+      "tint_color" : "RGBA(0.000000,0.478000,1.000000,1.000000)",
+      "name" : "",
+      "border_color" : "RGBA(0.000000,0.000000,0.000000,1.000000)",
+      "flex" : ""
+    },
+    "selected" : false
+  }
+]
